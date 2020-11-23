@@ -88,8 +88,10 @@ def banner():
                 ░ ▓██▓ ░ ▒██   ██░▒██   ██░▒██░      ▒   ██▒
                   ▒██▒ ░ ░ ████▓▒░░ ████▓▒░░██████▒▒██████▒▒
                   ▒ ░░   ░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░▓  ░▒ ▒▓▒ ▒ ░'''+b+'''
-                      >https://github.com/hacking-png<
+                        >https://github.com/Jostiin<
                           >orbejostin08@gmail com<
+      
+                [creador] = Jostin Orbe
          
                 >'''+r+'''['''+b+'''1'''+r+''']'''+b+'''Pishing    
                 >'''+r+'''['''+b+'''2'''+r+''']'''+b+'''Fuerza Bruta
